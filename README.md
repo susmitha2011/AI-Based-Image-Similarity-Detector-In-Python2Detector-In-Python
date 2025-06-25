@@ -1,4 +1,4 @@
-# AI-Based-Image-Similarity-Detector-In-Python 2
+AI BASED IMAGE SIMILARITY DETECTOR IN PYTHON
 Task Description: Create a Python-based tool that takes two images as input and determines whether they are the same or similar using basic AI techniques. The tool should output whether the images are identical, visually similar, or completely different based on pixel comparison or feature extraction.
 1. Basic Python Programming
 Understand data types, functions, and control structures (if, for, etc.). Learn how to read and write
